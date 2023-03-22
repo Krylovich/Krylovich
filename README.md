@@ -1,13 +1,13 @@
-# Hi there 👋
+![баннер](https://user-images.githubusercontent.com/92587046/227004220-7f75c9b0-8504-4e80-a3f4-44456e5d1ee9.png)
 
-![octocat-1679509067256](https://user-images.githubusercontent.com/92587046/227000163-5a19580b-746e-4b85-bc13-39cd417636de.png)
+
 
 
 <!--
 **Krylovich/Krylovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+# Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
