@@ -1,10 +1,11 @@
-![баннер](https://user-images.githubusercontent.com/92587046/227004220-7f75c9b0-8504-4e80-a3f4-44456e5d1ee9.png)
+# Hi there 👋👩‍💻
+
+![readme](https://user-images.githubusercontent.com/92587046/227271402-2ba7223c-2e1d-45b1-9707-3467ac00e161.png)
 
 
 
 
-<!--
-**Krylovich/Krylovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Krylovich/Krylovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 # Hi there 👋
